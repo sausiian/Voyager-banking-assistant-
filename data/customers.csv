@@ -1,0 +1,501 @@
+customer_id,name,age,city_tier,income_band,monthly_salary,life_stage,has_existing_life_insurance,has_existing_loan
+CUST0000,Dalbir Solanki,39,Tier-1,High (> 75k/mo),88900.0,Newly Married,True,True
+CUST0001,Hardik Parmar,27,Tier-3,High (> 75k/mo),186500.0,Homeowner-in-progress,True,True
+CUST0002,Gavin Goswami,23,Tier-3,Low (< 25k/mo),18600.0,Newly Married,False,False
+CUST0003,Aachal Chad,39,Tier-1,Mid (25k-75k/mo),36000.0,Newly Married,False,True
+CUST0004,Yashawini Vora,43,Tier-1,Low (< 25k/mo),14800.0,Young Professional,False,True
+CUST0005,Victor Gola,24,Tier-3,Mid (25k-75k/mo),55200.0,Homeowner-in-progress,False,False
+CUST0006,Aarav Bose,40,Tier-3,Mid (25k-75k/mo),28900.0,New Parent,False,False
+CUST0007,Chandresh Seth,40,Tier-1,Low (< 25k/mo),20600.0,Newly Married,False,True
+CUST0008,Chatura Sahota,45,Tier-1,Mid (25k-75k/mo),56800.0,New Parent,False,False
+CUST0009,Aarav Chakrabarti,26,Tier-3,High (> 75k/mo),192100.0,Newly Married,False,True
+CUST0010,Riya Chaudhuri,36,Tier-3,Mid (25k-75k/mo),44000.0,New Parent,False,False
+CUST0011,Onveer Butala,42,Tier-2,Low (< 25k/mo),22700.0,New Parent,True,False
+CUST0012,Hardik Dada,42,Tier-1,High (> 75k/mo),184500.0,Homeowner-in-progress,False,False
+CUST0013,Faqid Sem,30,Tier-1,Mid (25k-75k/mo),32100.0,New Parent,False,False
+CUST0014,Peter Bhakta,36,Tier-1,High (> 75k/mo),124900.0,Homeowner-in-progress,True,True
+CUST0015,Mekhala Golla,32,Tier-3,Low (< 25k/mo),14000.0,Homeowner-in-progress,False,True
+CUST0016,Unni Sengupta,55,Tier-2,High (> 75k/mo),199500.0,Young Professional,False,True
+CUST0017,Rishi Koshy,43,Tier-1,High (> 75k/mo),168900.0,New Parent,False,False
+CUST0018,Robert Khosla,38,Tier-3,High (> 75k/mo),184500.0,Newly Married,False,True
+CUST0019,Yashasvi Chad,54,Tier-3,High (> 75k/mo),112300.0,Newly Married,True,False
+CUST0020,Tanish Dara,55,Tier-1,High (> 75k/mo),194200.0,New Parent,False,True
+CUST0021,Vihaan Grewal,41,Tier-1,Mid (25k-75k/mo),68900.0,Young Professional,True,False
+CUST0022,Wridesh Kapadia,53,Tier-1,Low (< 25k/mo),13100.0,Newly Married,True,False
+CUST0023,Ojas Bera,55,Tier-3,High (> 75k/mo),95600.0,Homeowner-in-progress,False,False
+CUST0024,Zayan Kurian,41,Tier-2,High (> 75k/mo),161200.0,New Parent,False,False
+CUST0025,Triveni Bhatia,26,Tier-2,Low (< 25k/mo),15200.0,Young Professional,False,True
+CUST0026,Yash Singh,25,Tier-1,Low (< 25k/mo),12100.0,Young Professional,False,False
+CUST0027,Mekhala Kala,39,Tier-3,Low (< 25k/mo),18700.0,Homeowner-in-progress,True,True
+CUST0028,Udarsh Sidhu,37,Tier-2,High (> 75k/mo),147000.0,Homeowner-in-progress,True,True
+CUST0029,Balveer Srinivas,48,Tier-2,Mid (25k-75k/mo),42700.0,Young Professional,False,False
+CUST0030,Hredhaan Raju,43,Tier-1,Low (< 25k/mo),12800.0,Newly Married,True,False
+CUST0031,Damini Uppal,39,Tier-2,Low (< 25k/mo),17500.0,Newly Married,False,True
+CUST0032,Saanvi Kumar,22,Tier-1,High (> 75k/mo),87200.0,Newly Married,True,False
+CUST0033,Mekhala Sridhar,25,Tier-1,Low (< 25k/mo),23200.0,Homeowner-in-progress,True,True
+CUST0034,Aarnav Rai,53,Tier-1,Mid (25k-75k/mo),39300.0,Newly Married,True,False
+CUST0035,Gagan Sundaram,25,Tier-3,High (> 75k/mo),167000.0,New Parent,True,False
+CUST0036,Parth Sibal,55,Tier-1,High (> 75k/mo),189900.0,Young Professional,False,True
+CUST0037,Vanya Ramaswamy,26,Tier-3,Low (< 25k/mo),12900.0,Newly Married,False,False
+CUST0038,Omya Kota,24,Tier-3,High (> 75k/mo),105800.0,Young Professional,False,False
+CUST0039,Chakradev Hans,38,Tier-1,High (> 75k/mo),114500.0,New Parent,True,True
+CUST0040,Harsh Doshi,51,Tier-2,High (> 75k/mo),155700.0,Young Professional,True,False
+CUST0041,Azaan Ramanathan,26,Tier-3,High (> 75k/mo),199500.0,Newly Married,False,True
+CUST0042,Leela Mital,37,Tier-2,Mid (25k-75k/mo),69000.0,New Parent,True,False
+CUST0043,Bahadurjit Madan,55,Tier-1,High (> 75k/mo),112800.0,New Parent,False,True
+CUST0044,Sara D’Alia,28,Tier-3,Low (< 25k/mo),15400.0,Newly Married,True,False
+CUST0045,Jai Varma,38,Tier-3,High (> 75k/mo),117900.0,Homeowner-in-progress,True,False
+CUST0046,Jeet Choudhry,49,Tier-2,Low (< 25k/mo),13200.0,Young Professional,True,False
+CUST0047,Bhavika Mistry,32,Tier-3,High (> 75k/mo),197500.0,Homeowner-in-progress,False,False
+CUST0048,Maanav Kumar,31,Tier-3,Low (< 25k/mo),13500.0,Young Professional,False,False
+CUST0049,Libni Lala,24,Tier-2,Low (< 25k/mo),17600.0,New Parent,False,False
+CUST0050,Ekta Patel,35,Tier-3,Low (< 25k/mo),23700.0,Newly Married,False,True
+CUST0051,Bhavani Dora,48,Tier-3,High (> 75k/mo),185500.0,Newly Married,False,True
+CUST0052,Bishakha Gala,33,Tier-2,Low (< 25k/mo),24700.0,Young Professional,True,False
+CUST0053,Matthew Lata,37,Tier-2,Mid (25k-75k/mo),65100.0,Newly Married,False,True
+CUST0054,Nathaniel Virk,36,Tier-1,Low (< 25k/mo),23200.0,Homeowner-in-progress,True,False
+CUST0055,Omkaar Chakraborty,34,Tier-2,Low (< 25k/mo),14900.0,New Parent,True,True
+CUST0056,Hemangini Devi,54,Tier-2,Mid (25k-75k/mo),42600.0,New Parent,False,True
+CUST0057,Nicholas Mishra,38,Tier-1,Mid (25k-75k/mo),33900.0,Young Professional,False,True
+CUST0058,Varsha Sekhon,54,Tier-1,Mid (25k-75k/mo),46800.0,Homeowner-in-progress,False,True
+CUST0059,Veer Maharaj,22,Tier-3,Low (< 25k/mo),21200.0,Newly Married,False,True
+CUST0060,Falguni Deol,42,Tier-3,High (> 75k/mo),190100.0,Young Professional,False,True
+CUST0061,Yash Sharaf,42,Tier-2,Mid (25k-75k/mo),58300.0,New Parent,False,True
+CUST0062,Kalpit Bobal,33,Tier-3,High (> 75k/mo),192500.0,New Parent,False,False
+CUST0063,Saumya Jayaraman,49,Tier-3,Mid (25k-75k/mo),39300.0,New Parent,False,False
+CUST0064,Lucky Tiwari,32,Tier-3,Low (< 25k/mo),18600.0,Young Professional,True,False
+CUST0065,Liam Chahal,37,Tier-3,High (> 75k/mo),116900.0,New Parent,True,True
+CUST0066,Ekiya Goel,52,Tier-3,Low (< 25k/mo),12600.0,Young Professional,False,False
+CUST0067,Chavvi Gole,46,Tier-2,High (> 75k/mo),99300.0,Homeowner-in-progress,True,False
+CUST0068,Aadi Bhat,28,Tier-2,Low (< 25k/mo),23600.0,Newly Married,True,False
+CUST0069,Finn Varghese,37,Tier-1,High (> 75k/mo),133100.0,Homeowner-in-progress,True,False
+CUST0070,Omisha Sahni,42,Tier-2,High (> 75k/mo),198500.0,Homeowner-in-progress,False,False
+CUST0071,Krish Krishnamurthy,52,Tier-2,Low (< 25k/mo),21700.0,New Parent,False,False
+CUST0072,Mohammed Bava,55,Tier-2,Mid (25k-75k/mo),63300.0,Newly Married,True,True
+CUST0073,Wriddhish Misra,43,Tier-2,Mid (25k-75k/mo),36700.0,Young Professional,True,True
+CUST0074,Shivansh Konda,35,Tier-1,High (> 75k/mo),94100.0,Homeowner-in-progress,False,False
+CUST0075,Pranav Tiwari,48,Tier-2,Mid (25k-75k/mo),28100.0,Young Professional,False,False
+CUST0076,Vinaya Chander,44,Tier-2,Mid (25k-75k/mo),48800.0,Homeowner-in-progress,False,False
+CUST0077,Xalak Dora,36,Tier-2,Mid (25k-75k/mo),51900.0,Newly Married,True,False
+CUST0078,Quincy Chada,47,Tier-3,Mid (25k-75k/mo),41800.0,Newly Married,False,False
+CUST0079,Aryan Bala,47,Tier-3,High (> 75k/mo),141800.0,Young Professional,True,False
+CUST0080,Gopal Hans,38,Tier-2,Mid (25k-75k/mo),34100.0,New Parent,True,True
+CUST0081,Yahvi Rajagopalan,48,Tier-2,Mid (25k-75k/mo),38900.0,Young Professional,False,False
+CUST0082,Ganga Narula,44,Tier-1,Low (< 25k/mo),25000.0,Young Professional,False,False
+CUST0083,Fariq Sinha,34,Tier-1,Low (< 25k/mo),24300.0,Newly Married,True,False
+CUST0084,Kala Varghese,35,Tier-2,Low (< 25k/mo),19300.0,New Parent,False,True
+CUST0085,Chakradhar Raj,29,Tier-1,High (> 75k/mo),195500.0,New Parent,True,True
+CUST0086,Ikshita Borde,46,Tier-2,Mid (25k-75k/mo),53800.0,Newly Married,True,False
+CUST0087,Balhaar Kapadia,41,Tier-3,High (> 75k/mo),105400.0,Young Professional,False,False
+CUST0088,Varenya Ganguly,49,Tier-3,Low (< 25k/mo),16500.0,New Parent,True,False
+CUST0089,Sai Hora,53,Tier-1,Low (< 25k/mo),23000.0,Homeowner-in-progress,False,False
+CUST0090,Warinder Bhardwaj,49,Tier-1,Mid (25k-75k/mo),60400.0,New Parent,False,False
+CUST0091,Prisha Pau,39,Tier-2,Mid (25k-75k/mo),48200.0,Newly Married,False,True
+CUST0092,Advaith Anand,51,Tier-3,Mid (25k-75k/mo),37200.0,Homeowner-in-progress,True,False
+CUST0093,Lipika Mahal,35,Tier-2,Mid (25k-75k/mo),34100.0,New Parent,True,False
+CUST0094,Waida Dash,22,Tier-3,High (> 75k/mo),185000.0,Newly Married,True,False
+CUST0095,Alexander Varty,37,Tier-3,Mid (25k-75k/mo),52800.0,Homeowner-in-progress,False,False
+CUST0096,Zinal Tailor,36,Tier-2,Low (< 25k/mo),13200.0,Newly Married,True,False
+CUST0097,Unni Nadig,44,Tier-2,Mid (25k-75k/mo),52700.0,New Parent,False,False
+CUST0098,Bahadurjit Barman,29,Tier-3,Mid (25k-75k/mo),37600.0,Newly Married,True,False
+CUST0099,Indrajit Barad,35,Tier-3,High (> 75k/mo),98100.0,Homeowner-in-progress,True,False
+CUST0100,Henry Modi,28,Tier-1,High (> 75k/mo),149600.0,New Parent,True,True
+CUST0101,Arin Baral,30,Tier-2,Low (< 25k/mo),21200.0,Young Professional,False,False
+CUST0102,Fitan Setty,53,Tier-1,High (> 75k/mo),193000.0,Young Professional,False,False
+CUST0103,Teerth Ramesh,25,Tier-2,Mid (25k-75k/mo),42000.0,Homeowner-in-progress,True,True
+CUST0104,Omya Lal,25,Tier-1,Mid (25k-75k/mo),28700.0,Newly Married,False,False
+CUST0105,Prisha Radhakrishnan,29,Tier-3,Low (< 25k/mo),24900.0,Homeowner-in-progress,False,False
+CUST0106,Orinder Bhat,46,Tier-2,Low (< 25k/mo),22100.0,Homeowner-in-progress,True,False
+CUST0107,Chanakya Ahluwalia,25,Tier-3,Mid (25k-75k/mo),40300.0,Young Professional,False,True
+CUST0108,Hardik Gopal,27,Tier-1,Low (< 25k/mo),15400.0,Newly Married,True,True
+CUST0109,Warda Sinha,52,Tier-2,Low (< 25k/mo),17300.0,Young Professional,True,False
+CUST0110,Wriddhish Rajan,26,Tier-3,High (> 75k/mo),182500.0,Newly Married,False,False
+CUST0111,Kabir Patel,34,Tier-2,High (> 75k/mo),148700.0,Young Professional,False,False
+CUST0112,Kai Nair,26,Tier-1,Mid (25k-75k/mo),66300.0,Newly Married,False,False
+CUST0113,Balhaar Goda,50,Tier-1,High (> 75k/mo),190100.0,Homeowner-in-progress,False,False
+CUST0114,Aashi Menon,53,Tier-2,Mid (25k-75k/mo),50000.0,Young Professional,False,False
+CUST0115,Lekha Thakkar,38,Tier-1,High (> 75k/mo),115300.0,Young Professional,True,False
+CUST0116,Chanakya Pingle,23,Tier-3,High (> 75k/mo),148400.0,New Parent,False,False
+CUST0117,Jasmit Banerjee,50,Tier-2,Low (< 25k/mo),18100.0,Newly Married,False,False
+CUST0118,Gayathri Issac,52,Tier-2,Mid (25k-75k/mo),73500.0,Homeowner-in-progress,True,False
+CUST0119,Xavier Bhandari,53,Tier-2,Low (< 25k/mo),16300.0,Homeowner-in-progress,False,False
+CUST0120,Daksh Date,38,Tier-2,Mid (25k-75k/mo),29400.0,Young Professional,False,False
+CUST0121,Janya Padmanabhan,22,Tier-3,High (> 75k/mo),178100.0,Homeowner-in-progress,False,True
+CUST0122,Tanmayi Setty,53,Tier-3,Mid (25k-75k/mo),56100.0,Homeowner-in-progress,False,True
+CUST0123,Dayamai Gandhi,40,Tier-2,High (> 75k/mo),91400.0,Homeowner-in-progress,True,False
+CUST0124,Chavvi Kara,32,Tier-2,High (> 75k/mo),174900.0,Young Professional,False,True
+CUST0125,Bhavna Koshy,29,Tier-3,Low (< 25k/mo),18000.0,Newly Married,False,False
+CUST0126,Viraj Sha,48,Tier-2,High (> 75k/mo),163200.0,Homeowner-in-progress,True,False
+CUST0127,Upasna Varma,54,Tier-3,Mid (25k-75k/mo),34500.0,Newly Married,False,True
+CUST0128,Edhitha Char,54,Tier-2,Mid (25k-75k/mo),42000.0,Young Professional,True,True
+CUST0129,Vihaan Prakash,53,Tier-1,High (> 75k/mo),147500.0,Homeowner-in-progress,False,True
+CUST0130,Vasana Dube,46,Tier-2,High (> 75k/mo),170400.0,New Parent,False,False
+CUST0131,Netra Sachar,36,Tier-2,Low (< 25k/mo),19400.0,Young Professional,True,False
+CUST0132,Yutika Barad,31,Tier-2,Mid (25k-75k/mo),44300.0,Young Professional,True,False
+CUST0133,Sanaya Dewan,50,Tier-1,Mid (25k-75k/mo),68500.0,Homeowner-in-progress,True,True
+CUST0134,Harsh Mallick,26,Tier-2,High (> 75k/mo),196200.0,New Parent,True,False
+CUST0135,Udarsh Mitra,43,Tier-3,High (> 75k/mo),85000.0,Homeowner-in-progress,False,False
+CUST0136,Isaiah Ratta,24,Tier-3,Mid (25k-75k/mo),68600.0,Young Professional,True,False
+CUST0137,Shravya Nori,27,Tier-2,Mid (25k-75k/mo),74900.0,Young Professional,False,False
+CUST0138,Radhika Jha,41,Tier-1,Low (< 25k/mo),17800.0,Young Professional,True,True
+CUST0139,Damyanti Sen,31,Tier-1,Mid (25k-75k/mo),43700.0,Homeowner-in-progress,False,False
+CUST0140,Charan Rattan,46,Tier-3,Low (< 25k/mo),14300.0,Newly Married,False,False
+CUST0141,Brinda Gala,38,Tier-2,Low (< 25k/mo),18000.0,New Parent,False,False
+CUST0142,Riya Mani,32,Tier-1,Mid (25k-75k/mo),70100.0,Homeowner-in-progress,False,False
+CUST0143,Jagat Dugar,49,Tier-3,Mid (25k-75k/mo),56900.0,New Parent,False,True
+CUST0144,Baghyawati Rajagopalan,28,Tier-1,Mid (25k-75k/mo),67700.0,Homeowner-in-progress,False,False
+CUST0145,Udant Dada,47,Tier-2,High (> 75k/mo),111900.0,Young Professional,False,False
+CUST0146,Brijesh Mittal,53,Tier-2,High (> 75k/mo),196700.0,Newly Married,False,True
+CUST0147,Bhavika Patla,38,Tier-3,High (> 75k/mo),98800.0,Newly Married,False,False
+CUST0148,Arin Nadkarni,50,Tier-1,High (> 75k/mo),79900.0,New Parent,False,True
+CUST0149,Hardik Kara,48,Tier-1,Mid (25k-75k/mo),41300.0,Newly Married,True,False
+CUST0150,Balendra Chakraborty,39,Tier-1,Mid (25k-75k/mo),51500.0,New Parent,False,False
+CUST0151,Karan Uppal,43,Tier-1,Mid (25k-75k/mo),62300.0,Homeowner-in-progress,False,True
+CUST0152,Amruta Rege,47,Tier-3,Low (< 25k/mo),23200.0,New Parent,True,True
+CUST0153,Lipika Chahal,51,Tier-2,Mid (25k-75k/mo),51800.0,New Parent,False,False
+CUST0154,Riya Dugar,36,Tier-2,Mid (25k-75k/mo),30400.0,Young Professional,False,False
+CUST0155,Nandini Patla,36,Tier-3,Mid (25k-75k/mo),70800.0,Young Professional,False,False
+CUST0156,Harinakshi Deshmukh,48,Tier-1,High (> 75k/mo),112800.0,Newly Married,True,True
+CUST0157,Pahal Suresh,37,Tier-3,Mid (25k-75k/mo),30800.0,Newly Married,False,True
+CUST0158,Wriddhish Purohit,48,Tier-3,High (> 75k/mo),162100.0,Newly Married,False,False
+CUST0159,William Madan,39,Tier-1,Mid (25k-75k/mo),55800.0,New Parent,True,False
+CUST0160,Michael Kalita,28,Tier-3,Low (< 25k/mo),23100.0,New Parent,False,False
+CUST0161,Vamakshi Koshy,39,Tier-1,Mid (25k-75k/mo),28000.0,Young Professional,False,False
+CUST0162,Gauri Kapoor,23,Tier-1,Low (< 25k/mo),20600.0,New Parent,True,True
+CUST0163,Chandresh Jayaraman,35,Tier-3,High (> 75k/mo),100700.0,Newly Married,False,True
+CUST0164,Kavya Prakash,22,Tier-2,Low (< 25k/mo),22300.0,Newly Married,False,False
+CUST0165,Shaurya Divan,23,Tier-1,Low (< 25k/mo),13400.0,Young Professional,False,False
+CUST0166,Vedika De,33,Tier-2,High (> 75k/mo),115500.0,Young Professional,True,False
+CUST0167,Anthony Kala,52,Tier-2,Low (< 25k/mo),21700.0,New Parent,False,True
+CUST0168,Osha Sahni,24,Tier-3,High (> 75k/mo),102700.0,New Parent,False,False
+CUST0169,Gaurika Dugar,47,Tier-2,Low (< 25k/mo),25000.0,Young Professional,False,False
+CUST0170,Aryan Kibe,42,Tier-3,Low (< 25k/mo),23700.0,Newly Married,True,True
+CUST0171,Dakshesh Kara,42,Tier-2,High (> 75k/mo),148200.0,New Parent,False,False
+CUST0172,Teerth Bedi,29,Tier-3,Low (< 25k/mo),22300.0,Newly Married,False,False
+CUST0173,Dhruv Ramakrishnan,51,Tier-2,Mid (25k-75k/mo),41900.0,Homeowner-in-progress,False,True
+CUST0174,Vritti Bhatia,45,Tier-1,Mid (25k-75k/mo),58300.0,Homeowner-in-progress,True,False
+CUST0175,Sanya Pau,45,Tier-1,Low (< 25k/mo),17600.0,Young Professional,False,False
+CUST0176,Devika Lalla,48,Tier-2,Mid (25k-75k/mo),58500.0,Homeowner-in-progress,False,False
+CUST0177,Eta Khosla,44,Tier-1,Mid (25k-75k/mo),55000.0,Newly Married,True,False
+CUST0178,Wridesh Lala,45,Tier-1,Low (< 25k/mo),16600.0,New Parent,False,False
+CUST0179,Rayaan Kunda,23,Tier-3,High (> 75k/mo),196800.0,New Parent,True,True
+CUST0180,Rayaan Batra,44,Tier-1,Mid (25k-75k/mo),71100.0,Newly Married,False,False
+CUST0181,Ishwar Dugal,23,Tier-1,Mid (25k-75k/mo),28500.0,Newly Married,False,False
+CUST0182,Chaaya Pingle,42,Tier-3,Low (< 25k/mo),16800.0,Young Professional,False,True
+CUST0183,Zayyan Natarajan,27,Tier-2,High (> 75k/mo),81200.0,Homeowner-in-progress,False,False
+CUST0184,Maanas Narula,35,Tier-3,Mid (25k-75k/mo),45700.0,Young Professional,True,True
+CUST0185,Advik Wagle,53,Tier-3,High (> 75k/mo),159800.0,New Parent,True,True
+CUST0186,Banjeet Amble,35,Tier-2,High (> 75k/mo),81800.0,Newly Married,False,False
+CUST0187,Faris Bajaj,22,Tier-2,Mid (25k-75k/mo),41400.0,Homeowner-in-progress,True,True
+CUST0188,Aayush Johal,44,Tier-1,High (> 75k/mo),103800.0,Homeowner-in-progress,False,True
+CUST0189,Charan Patil,26,Tier-2,Low (< 25k/mo),18000.0,Homeowner-in-progress,False,False
+CUST0190,Pratyush Krish,47,Tier-1,Mid (25k-75k/mo),39500.0,New Parent,True,False
+CUST0191,Henry Pai,45,Tier-1,Mid (25k-75k/mo),66600.0,Homeowner-in-progress,False,True
+CUST0192,Vinaya Dewan,27,Tier-2,High (> 75k/mo),125100.0,New Parent,False,True
+CUST0193,Timothy Wali,29,Tier-3,Low (< 25k/mo),13000.0,Newly Married,False,True
+CUST0194,Ojasvi Naidu,31,Tier-1,High (> 75k/mo),194800.0,Young Professional,True,True
+CUST0195,Anika Parikh,26,Tier-1,High (> 75k/mo),94100.0,Homeowner-in-progress,False,False
+CUST0196,Lopa Kapur,42,Tier-3,High (> 75k/mo),131100.0,New Parent,True,True
+CUST0197,Vyanjana Sodhi,39,Tier-3,Mid (25k-75k/mo),56600.0,Young Professional,False,True
+CUST0198,Zilmil Kumar,25,Tier-2,Mid (25k-75k/mo),47600.0,New Parent,True,False
+CUST0199,Samuel Thakkar,54,Tier-2,Low (< 25k/mo),20000.0,Homeowner-in-progress,False,False
+CUST0200,Atharv Sahni,50,Tier-3,High (> 75k/mo),187000.0,Newly Married,True,False
+CUST0201,Chandresh Chaudhuri,50,Tier-1,Low (< 25k/mo),24500.0,New Parent,False,True
+CUST0202,Yadavi Grover,37,Tier-3,High (> 75k/mo),96600.0,Homeowner-in-progress,False,False
+CUST0203,Mason Raj,45,Tier-2,High (> 75k/mo),94800.0,Homeowner-in-progress,False,True
+CUST0204,Ekansh Wali,43,Tier-1,High (> 75k/mo),81500.0,New Parent,True,False
+CUST0205,Chaitanya Vora,31,Tier-2,Mid (25k-75k/mo),37600.0,Young Professional,False,True
+CUST0206,Niharika Kumar,47,Tier-1,Mid (25k-75k/mo),40500.0,Young Professional,True,True
+CUST0207,Ucchal Barman,55,Tier-1,Mid (25k-75k/mo),65700.0,Homeowner-in-progress,False,True
+CUST0208,Vanya Deo,35,Tier-2,Mid (25k-75k/mo),34000.0,Homeowner-in-progress,True,False
+CUST0209,Samesh Apte,28,Tier-3,Low (< 25k/mo),13000.0,Young Professional,False,False
+CUST0210,Saksham Shukla,46,Tier-1,High (> 75k/mo),91400.0,Newly Married,True,False
+CUST0211,Anthony Natarajan,32,Tier-3,High (> 75k/mo),176100.0,Homeowner-in-progress,True,True
+CUST0212,Isha Parmer,50,Tier-3,High (> 75k/mo),104700.0,New Parent,False,False
+CUST0213,Prisha Saha,41,Tier-2,Low (< 25k/mo),18900.0,Newly Married,False,False
+CUST0214,Oliver Morar,40,Tier-2,Mid (25k-75k/mo),48100.0,Homeowner-in-progress,False,False
+CUST0215,Harshil Bala,38,Tier-1,High (> 75k/mo),92300.0,Homeowner-in-progress,False,False
+CUST0216,Vanya Borra,55,Tier-1,Low (< 25k/mo),21200.0,New Parent,True,True
+CUST0217,Om Dave,31,Tier-2,Mid (25k-75k/mo),70300.0,Young Professional,False,True
+CUST0218,Tripti Madan,23,Tier-2,Mid (25k-75k/mo),69200.0,Young Professional,False,True
+CUST0219,Jagat Murty,45,Tier-1,Mid (25k-75k/mo),74700.0,Young Professional,True,True
+CUST0220,Jonathan Hayre,31,Tier-1,High (> 75k/mo),156200.0,Young Professional,True,False
+CUST0221,Jyoti Zacharia,52,Tier-2,High (> 75k/mo),178900.0,Young Professional,False,True
+CUST0222,Yuvraj Behl,55,Tier-2,Low (< 25k/mo),22900.0,Young Professional,False,True
+CUST0223,Harsh Baria,48,Tier-3,Low (< 25k/mo),12600.0,Homeowner-in-progress,True,False
+CUST0224,Ria Gala,23,Tier-3,Mid (25k-75k/mo),54800.0,Newly Married,False,True
+CUST0225,Mohammed Wali,37,Tier-3,Low (< 25k/mo),20000.0,Homeowner-in-progress,True,False
+CUST0226,Megha Behl,26,Tier-3,High (> 75k/mo),196800.0,Young Professional,False,False
+CUST0227,Kamala Dass,45,Tier-2,High (> 75k/mo),123400.0,Young Professional,False,True
+CUST0228,Chavvi Loyal,28,Tier-3,Low (< 25k/mo),21500.0,New Parent,True,True
+CUST0229,Wridesh Vala,33,Tier-3,Mid (25k-75k/mo),65700.0,Homeowner-in-progress,False,False
+CUST0230,Fariq Nagarajan,26,Tier-3,Low (< 25k/mo),22500.0,Homeowner-in-progress,True,True
+CUST0231,Bhavini Varma,42,Tier-2,Low (< 25k/mo),23500.0,Homeowner-in-progress,False,False
+CUST0232,Nandini Nanda,34,Tier-2,Mid (25k-75k/mo),26800.0,New Parent,False,True
+CUST0233,Aryan Grewal,29,Tier-2,High (> 75k/mo),116500.0,Homeowner-in-progress,False,False
+CUST0234,Siya Hans,33,Tier-2,Mid (25k-75k/mo),42000.0,Homeowner-in-progress,False,False
+CUST0235,Matthew Shanker,49,Tier-1,Mid (25k-75k/mo),65100.0,Homeowner-in-progress,False,False
+CUST0236,Nisha Sarna,28,Tier-1,High (> 75k/mo),111700.0,New Parent,False,True
+CUST0237,Omkaar Taneja,32,Tier-3,High (> 75k/mo),164700.0,Homeowner-in-progress,False,True
+CUST0238,Kamya Borra,49,Tier-2,Mid (25k-75k/mo),55700.0,Young Professional,True,False
+CUST0239,Elijah Nayak,32,Tier-1,Mid (25k-75k/mo),50700.0,Newly Married,False,False
+CUST0240,Christopher Tiwari,26,Tier-1,Mid (25k-75k/mo),26700.0,New Parent,False,False
+CUST0241,Fitan Manne,50,Tier-2,Low (< 25k/mo),19900.0,New Parent,False,True
+CUST0242,Lipika Madan,47,Tier-2,Low (< 25k/mo),18900.0,New Parent,True,True
+CUST0243,Champak Dayal,55,Tier-2,High (> 75k/mo),98300.0,Young Professional,True,True
+CUST0244,Fitan Nagar,40,Tier-3,Mid (25k-75k/mo),35700.0,Homeowner-in-progress,True,True
+CUST0245,Hritik Atwal,50,Tier-1,Low (< 25k/mo),17900.0,New Parent,False,False
+CUST0246,Isaac Verma,41,Tier-1,High (> 75k/mo),142800.0,Newly Married,False,False
+CUST0247,Eiravati Mannan,30,Tier-1,Low (< 25k/mo),24800.0,Homeowner-in-progress,True,False
+CUST0248,Wazir Lala,30,Tier-3,Mid (25k-75k/mo),48400.0,Young Professional,True,True
+CUST0249,Barkha Luthra,55,Tier-2,High (> 75k/mo),164900.0,Homeowner-in-progress,False,True
+CUST0250,Adya Vora,50,Tier-2,Mid (25k-75k/mo),57100.0,New Parent,True,False
+CUST0251,Isaiah Gole,33,Tier-1,High (> 75k/mo),155000.0,Homeowner-in-progress,False,False
+CUST0252,Libni Basu,41,Tier-1,Low (< 25k/mo),18700.0,Newly Married,True,False
+CUST0253,Ayush Thaman,55,Tier-2,Mid (25k-75k/mo),72400.0,Young Professional,True,False
+CUST0254,Dayita Goyal,41,Tier-3,High (> 75k/mo),109300.0,Young Professional,False,True
+CUST0255,Saksham Kara,43,Tier-3,High (> 75k/mo),94300.0,Young Professional,False,True
+CUST0256,Qasim Kumer,38,Tier-3,Low (< 25k/mo),24300.0,Newly Married,False,False
+CUST0257,Kala Hegde,40,Tier-3,High (> 75k/mo),78800.0,New Parent,False,False
+CUST0258,Praneel Dara,51,Tier-1,High (> 75k/mo),125800.0,Young Professional,True,False
+CUST0259,Balvan Agrawal,31,Tier-2,Mid (25k-75k/mo),35200.0,New Parent,False,False
+CUST0260,Yahvi Murthy,45,Tier-3,Mid (25k-75k/mo),31500.0,Young Professional,True,False
+CUST0261,Charan Pandit,31,Tier-1,Mid (25k-75k/mo),47500.0,Young Professional,True,True
+CUST0262,Vinaya Mangat,32,Tier-2,High (> 75k/mo),127300.0,New Parent,True,True
+CUST0263,Gautam Ranganathan,41,Tier-2,High (> 75k/mo),133400.0,Young Professional,True,True
+CUST0264,Diya Hayre,35,Tier-3,Mid (25k-75k/mo),73300.0,New Parent,True,True
+CUST0265,Vasatika Chatterjee,52,Tier-2,High (> 75k/mo),185300.0,Young Professional,False,False
+CUST0266,Zashil Pai,47,Tier-2,Mid (25k-75k/mo),61400.0,Young Professional,False,False
+CUST0267,Anamika Nath,40,Tier-1,Low (< 25k/mo),16700.0,Homeowner-in-progress,False,False
+CUST0268,Naveen Madan,29,Tier-1,Mid (25k-75k/mo),66300.0,Young Professional,False,False
+CUST0269,Ekta Bhatt,45,Tier-1,Mid (25k-75k/mo),52900.0,Newly Married,False,False
+CUST0270,Rishi Contractor,30,Tier-3,Low (< 25k/mo),12600.0,New Parent,False,False
+CUST0271,Ishwar Narain,54,Tier-1,Low (< 25k/mo),19900.0,New Parent,False,True
+CUST0272,Daksh Mukherjee,41,Tier-3,Mid (25k-75k/mo),74500.0,New Parent,False,False
+CUST0273,Charita Kumer,41,Tier-2,Mid (25k-75k/mo),60400.0,Young Professional,False,False
+CUST0274,Dakshesh Bhandari,23,Tier-3,Mid (25k-75k/mo),54200.0,Homeowner-in-progress,True,False
+CUST0275,Jai Bora,25,Tier-3,High (> 75k/mo),147200.0,Homeowner-in-progress,True,False
+CUST0276,Chaitaly Bumb,46,Tier-1,High (> 75k/mo),171800.0,Newly Married,True,False
+CUST0277,Onveer Gulati,50,Tier-2,Low (< 25k/mo),14500.0,Homeowner-in-progress,True,False
+CUST0278,Girik Bhat,52,Tier-3,Mid (25k-75k/mo),50100.0,Young Professional,False,False
+CUST0279,Ishani Kibe,52,Tier-3,High (> 75k/mo),115600.0,Homeowner-in-progress,True,True
+CUST0280,Avi Bhargava,44,Tier-3,High (> 75k/mo),117800.0,New Parent,False,True
+CUST0281,Yochana Murthy,41,Tier-1,Low (< 25k/mo),15600.0,New Parent,False,False
+CUST0282,Isaac Chaudhari,42,Tier-2,High (> 75k/mo),163100.0,New Parent,False,False
+CUST0283,Advik Edwin,29,Tier-3,High (> 75k/mo),109200.0,Homeowner-in-progress,False,True
+CUST0284,Qarin Din,31,Tier-2,Mid (25k-75k/mo),72700.0,Young Professional,True,False
+CUST0285,Onveer Pandya,38,Tier-3,Mid (25k-75k/mo),71200.0,Homeowner-in-progress,True,False
+CUST0286,Chakradhar Kapadia,39,Tier-1,Mid (25k-75k/mo),71700.0,Young Professional,False,False
+CUST0287,Varsha Varma,55,Tier-1,Low (< 25k/mo),12700.0,Newly Married,True,False
+CUST0288,Odika Bail,30,Tier-1,High (> 75k/mo),134100.0,Newly Married,False,False
+CUST0289,Ranveer Bumb,34,Tier-2,Mid (25k-75k/mo),48900.0,New Parent,True,True
+CUST0290,Indrajit Chander,36,Tier-3,Low (< 25k/mo),20500.0,Young Professional,False,True
+CUST0291,Saumya Prakash,24,Tier-2,Low (< 25k/mo),24100.0,Homeowner-in-progress,True,False
+CUST0292,Daksh Oza,22,Tier-2,Mid (25k-75k/mo),68800.0,Young Professional,False,True
+CUST0293,Aahana Khurana,55,Tier-2,Mid (25k-75k/mo),74500.0,Newly Married,False,False
+CUST0294,Isaac Rege,43,Tier-1,Low (< 25k/mo),22500.0,Homeowner-in-progress,False,False
+CUST0295,Anay Sanghvi,40,Tier-3,Low (< 25k/mo),21600.0,Newly Married,True,False
+CUST0296,Anjali Murthy,54,Tier-2,Mid (25k-75k/mo),66300.0,Young Professional,False,True
+CUST0297,Zaitra Sur,37,Tier-1,Low (< 25k/mo),18200.0,New Parent,False,False
+CUST0298,Yashawini Bhandari,41,Tier-3,Mid (25k-75k/mo),72700.0,Young Professional,True,True
+CUST0299,Christopher De,29,Tier-2,Low (< 25k/mo),12800.0,New Parent,True,False
+CUST0300,Wazir Sabharwal,29,Tier-3,High (> 75k/mo),171200.0,New Parent,False,True
+CUST0301,Lekha Bobal,51,Tier-3,Low (< 25k/mo),18200.0,New Parent,False,False
+CUST0302,Raagini Gaba,35,Tier-1,Mid (25k-75k/mo),62900.0,Young Professional,False,False
+CUST0303,Krish Jain,29,Tier-1,Mid (25k-75k/mo),28900.0,Newly Married,False,True
+CUST0304,Nandini Das,50,Tier-1,Mid (25k-75k/mo),67700.0,Newly Married,False,False
+CUST0305,Jasmit Gala,25,Tier-2,High (> 75k/mo),130700.0,Newly Married,False,False
+CUST0306,Warinder Mohan,41,Tier-3,Low (< 25k/mo),19300.0,Young Professional,False,False
+CUST0307,Tamanna Sibal,26,Tier-1,High (> 75k/mo),102200.0,Homeowner-in-progress,True,True
+CUST0308,Daksha Kakar,26,Tier-2,Low (< 25k/mo),24100.0,Young Professional,True,True
+CUST0309,Arya Sengupta,48,Tier-2,Low (< 25k/mo),22000.0,Homeowner-in-progress,False,False
+CUST0310,Rudra Upadhyay,30,Tier-3,Mid (25k-75k/mo),43800.0,New Parent,True,False
+CUST0311,Praneel Dave,36,Tier-1,Mid (25k-75k/mo),51400.0,Young Professional,False,False
+CUST0312,Bhavani Mane,46,Tier-1,High (> 75k/mo),143100.0,Newly Married,False,True
+CUST0313,Rishi Dhar,29,Tier-1,Low (< 25k/mo),24200.0,Homeowner-in-progress,False,False
+CUST0314,Brijesh Yogi,26,Tier-1,Low (< 25k/mo),15100.0,Young Professional,False,False
+CUST0315,Priya Magar,24,Tier-2,Low (< 25k/mo),15200.0,Homeowner-in-progress,True,True
+CUST0316,Wishi Narula,40,Tier-1,Low (< 25k/mo),13800.0,New Parent,False,False
+CUST0317,Daniel Sura,31,Tier-3,Mid (25k-75k/mo),36800.0,Newly Married,False,True
+CUST0318,Faraj Ram,33,Tier-3,High (> 75k/mo),193600.0,Homeowner-in-progress,False,True
+CUST0319,Manthan Mutti,46,Tier-3,Mid (25k-75k/mo),72100.0,New Parent,False,False
+CUST0320,Nidra Varty,52,Tier-1,Mid (25k-75k/mo),43800.0,Newly Married,True,False
+CUST0321,Yashica Nagar,48,Tier-2,Mid (25k-75k/mo),70700.0,Newly Married,False,True
+CUST0322,Veer Mall,50,Tier-2,Mid (25k-75k/mo),57300.0,Young Professional,False,False
+CUST0323,Noah Bail,24,Tier-1,Low (< 25k/mo),15500.0,Newly Married,False,False
+CUST0324,Anika Pandya,52,Tier-1,High (> 75k/mo),144900.0,New Parent,True,False
+CUST0325,Hamsini Murty,29,Tier-3,Low (< 25k/mo),24200.0,Homeowner-in-progress,False,False
+CUST0326,Shaurya Bora,37,Tier-3,High (> 75k/mo),100600.0,New Parent,False,True
+CUST0327,Chandresh Bala,41,Tier-2,High (> 75k/mo),156100.0,New Parent,False,False
+CUST0328,Wakeeta Borra,52,Tier-2,Low (< 25k/mo),22400.0,Newly Married,False,False
+CUST0329,Matthew Chaudhuri,31,Tier-1,High (> 75k/mo),183000.0,New Parent,False,False
+CUST0330,Om Sant,31,Tier-1,High (> 75k/mo),127200.0,New Parent,True,False
+CUST0331,Sachi Babu,43,Tier-2,Low (< 25k/mo),18500.0,Homeowner-in-progress,False,False
+CUST0332,Nicholas Barman,44,Tier-1,Mid (25k-75k/mo),48000.0,Newly Married,False,False
+CUST0333,Sathvik Sane,25,Tier-3,High (> 75k/mo),198800.0,Young Professional,False,True
+CUST0334,Charan Wagle,22,Tier-2,High (> 75k/mo),81100.0,Newly Married,False,True
+CUST0335,Lopa Misra,35,Tier-3,High (> 75k/mo),93900.0,Homeowner-in-progress,False,False
+CUST0336,Jagvi Jha,52,Tier-3,High (> 75k/mo),191700.0,Homeowner-in-progress,True,False
+CUST0337,Anirudh Doctor,55,Tier-3,Mid (25k-75k/mo),25600.0,New Parent,False,True
+CUST0338,Azad Chander,49,Tier-1,High (> 75k/mo),176600.0,Young Professional,False,False
+CUST0339,Vanya Pathak,55,Tier-2,Low (< 25k/mo),14500.0,New Parent,True,True
+CUST0340,Kabir Mander,51,Tier-3,Mid (25k-75k/mo),73000.0,Newly Married,False,True
+CUST0341,Ekaja Varkey,27,Tier-3,High (> 75k/mo),178500.0,Young Professional,True,True
+CUST0342,Zansi Dhaliwal,22,Tier-3,High (> 75k/mo),134500.0,Newly Married,True,False
+CUST0343,Jai Sathe,28,Tier-3,High (> 75k/mo),173000.0,Young Professional,True,False
+CUST0344,Zaitra Magar,52,Tier-2,High (> 75k/mo),185900.0,Young Professional,False,False
+CUST0345,Dayamai Soman,24,Tier-1,Mid (25k-75k/mo),70000.0,New Parent,True,True
+CUST0346,Vanya Dewan,47,Tier-1,Low (< 25k/mo),21800.0,New Parent,True,True
+CUST0347,Nitesh Lala,43,Tier-2,Mid (25k-75k/mo),58900.0,Newly Married,False,False
+CUST0348,Mekhala Bhagat,44,Tier-1,Low (< 25k/mo),18500.0,Young Professional,False,False
+CUST0349,Omaja Agrawal,47,Tier-2,Mid (25k-75k/mo),55300.0,Young Professional,False,False
+CUST0350,Balveer Ravel,44,Tier-3,Mid (25k-75k/mo),49500.0,Homeowner-in-progress,False,False
+CUST0351,Anmol Barad,40,Tier-1,High (> 75k/mo),122500.0,Young Professional,True,True
+CUST0352,Gaurang Kata,31,Tier-3,High (> 75k/mo),173000.0,Homeowner-in-progress,True,True
+CUST0353,Baghyawati Samra,50,Tier-2,Low (< 25k/mo),24300.0,New Parent,True,True
+CUST0354,Rachit Venkataraman,54,Tier-2,Mid (25k-75k/mo),47400.0,Young Professional,True,True
+CUST0355,Nimrat Raja,42,Tier-2,Low (< 25k/mo),19800.0,Young Professional,True,True
+CUST0356,Jagdish Ghosh,37,Tier-3,Low (< 25k/mo),21400.0,Newly Married,False,True
+CUST0357,Frado Nayar,53,Tier-1,Mid (25k-75k/mo),40100.0,Young Professional,True,True
+CUST0358,Ayushman Muni,26,Tier-2,Mid (25k-75k/mo),49200.0,New Parent,False,False
+CUST0359,Charan Grewal,34,Tier-2,Mid (25k-75k/mo),54700.0,Young Professional,True,True
+CUST0360,Yagnesh Bhatnagar,46,Tier-2,Mid (25k-75k/mo),41600.0,Homeowner-in-progress,True,False
+CUST0361,Qasim Gour,30,Tier-2,High (> 75k/mo),196800.0,New Parent,False,False
+CUST0362,Mekhala Borde,47,Tier-2,Mid (25k-75k/mo),40700.0,New Parent,False,False
+CUST0363,Isaac Ramakrishnan,42,Tier-2,High (> 75k/mo),172700.0,New Parent,False,True
+CUST0364,Charan Kar,34,Tier-3,Low (< 25k/mo),24100.0,Newly Married,False,False
+CUST0365,Vanya Kale,35,Tier-2,High (> 75k/mo),132700.0,New Parent,False,True
+CUST0366,Christopher Hora,30,Tier-3,Mid (25k-75k/mo),58600.0,New Parent,True,False
+CUST0367,Indrajit Dugal,46,Tier-1,High (> 75k/mo),127900.0,Homeowner-in-progress,False,False
+CUST0368,Hemangini Mukhopadhyay,48,Tier-3,Mid (25k-75k/mo),51700.0,Young Professional,False,True
+CUST0369,Hema Bhakta,27,Tier-1,High (> 75k/mo),149200.0,Newly Married,False,True
+CUST0370,Yahvi Kumer,47,Tier-2,High (> 75k/mo),151600.0,Homeowner-in-progress,True,True
+CUST0371,Yug Iyengar,55,Tier-3,Low (< 25k/mo),18600.0,Newly Married,False,True
+CUST0372,Anvi Nagi,54,Tier-1,High (> 75k/mo),148600.0,New Parent,False,False
+CUST0373,Anusha Ganesan,27,Tier-1,Mid (25k-75k/mo),45800.0,Newly Married,True,True
+CUST0374,Megha Kothari,44,Tier-2,Low (< 25k/mo),18800.0,Young Professional,False,False
+CUST0375,Chameli Borde,24,Tier-3,Mid (25k-75k/mo),28400.0,Young Professional,True,True
+CUST0376,Leela Manda,32,Tier-3,Low (< 25k/mo),20800.0,Newly Married,False,False
+CUST0377,Anya Tak,51,Tier-1,Mid (25k-75k/mo),53000.0,Homeowner-in-progress,False,True
+CUST0378,Teerth Mane,23,Tier-3,High (> 75k/mo),129000.0,Newly Married,False,False
+CUST0379,Devansh Bandi,35,Tier-2,Low (< 25k/mo),21200.0,Young Professional,False,False
+CUST0380,Maya Parmer,42,Tier-1,High (> 75k/mo),98400.0,Homeowner-in-progress,True,False
+CUST0381,Frado Narula,42,Tier-3,Mid (25k-75k/mo),51400.0,Homeowner-in-progress,False,False
+CUST0382,Gunbir Lad,51,Tier-3,Mid (25k-75k/mo),42600.0,Newly Married,False,False
+CUST0383,Dayita Garg,27,Tier-3,Mid (25k-75k/mo),70900.0,Newly Married,True,True
+CUST0384,Kashvi Uppal,31,Tier-3,Low (< 25k/mo),14400.0,Homeowner-in-progress,False,True
+CUST0385,Eshana Sengupta,53,Tier-3,Mid (25k-75k/mo),46200.0,Newly Married,False,False
+CUST0386,Nihal Sekhon,50,Tier-3,Low (< 25k/mo),14400.0,Young Professional,False,False
+CUST0387,Widisha Saraf,46,Tier-3,Mid (25k-75k/mo),31800.0,Homeowner-in-progress,False,False
+CUST0388,Abdul Wable,53,Tier-1,High (> 75k/mo),180000.0,Young Professional,False,False
+CUST0389,Udarsh Mani,39,Tier-1,Low (< 25k/mo),15800.0,New Parent,True,False
+CUST0390,Faris Thakkar,53,Tier-3,High (> 75k/mo),171600.0,Young Professional,False,True
+CUST0391,Ishanvi Kale,45,Tier-3,High (> 75k/mo),177900.0,Young Professional,False,False
+CUST0392,Yatin Amble,28,Tier-3,Low (< 25k/mo),24900.0,Newly Married,True,False
+CUST0393,Meera Sengupta,27,Tier-2,Mid (25k-75k/mo),38100.0,Young Professional,False,True
+CUST0394,Saanvi Khatri,44,Tier-3,High (> 75k/mo),148500.0,Homeowner-in-progress,True,True
+CUST0395,Chaitaly Munshi,25,Tier-3,Low (< 25k/mo),22600.0,New Parent,False,False
+CUST0396,Netra Singh,40,Tier-2,Low (< 25k/mo),16200.0,New Parent,False,False
+CUST0397,Damyanti Balasubramanian,30,Tier-2,High (> 75k/mo),176900.0,Young Professional,False,False
+CUST0398,Omisha Kar,30,Tier-1,Low (< 25k/mo),21100.0,Newly Married,False,False
+CUST0399,Adweta Dixit,31,Tier-3,High (> 75k/mo),124100.0,New Parent,False,True
+CUST0400,Naksh Dayal,27,Tier-2,Low (< 25k/mo),20200.0,New Parent,False,False
+CUST0401,Naksh Raval,42,Tier-3,Mid (25k-75k/mo),72500.0,Young Professional,False,False
+CUST0402,Samuel Ram,51,Tier-3,Low (< 25k/mo),21500.0,New Parent,False,False
+CUST0403,Chatura Bora,49,Tier-1,Mid (25k-75k/mo),35900.0,Homeowner-in-progress,True,False
+CUST0404,Anika Walla,30,Tier-3,Mid (25k-75k/mo),52400.0,Homeowner-in-progress,False,False
+CUST0405,Owen Dhar,51,Tier-1,Low (< 25k/mo),12600.0,Young Professional,False,True
+CUST0406,Jagdish Anne,49,Tier-1,Mid (25k-75k/mo),25000.0,Newly Married,False,True
+CUST0407,Jeremiah Pillay,45,Tier-2,Mid (25k-75k/mo),29700.0,Young Professional,False,False
+CUST0408,Sai Tak,41,Tier-3,Low (< 25k/mo),12700.0,Newly Married,False,True
+CUST0409,Aryan Narayan,52,Tier-1,Low (< 25k/mo),12000.0,Newly Married,False,False
+CUST0410,Ayushman Boase,43,Tier-1,Mid (25k-75k/mo),25500.0,Homeowner-in-progress,False,False
+CUST0411,Wahab Nadkarni,28,Tier-1,Low (< 25k/mo),17000.0,New Parent,False,True
+CUST0412,Chanakya Pal,30,Tier-3,Mid (25k-75k/mo),63700.0,Newly Married,True,False
+CUST0413,Bhavini Radhakrishnan,50,Tier-2,High (> 75k/mo),156300.0,Newly Married,False,True
+CUST0414,Sarthak Mani,50,Tier-1,Mid (25k-75k/mo),55800.0,Young Professional,False,True
+CUST0415,Tripti Mody,46,Tier-2,Low (< 25k/mo),19700.0,Homeowner-in-progress,True,True
+CUST0416,Anjali Varty,37,Tier-3,Mid (25k-75k/mo),57200.0,New Parent,False,False
+CUST0417,Jai Ratta,35,Tier-3,High (> 75k/mo),184500.0,Newly Married,False,True
+CUST0418,Lakshit Mammen,37,Tier-2,Low (< 25k/mo),22200.0,Homeowner-in-progress,True,False
+CUST0419,Luke Pandey,22,Tier-2,High (> 75k/mo),83900.0,New Parent,True,False
+CUST0420,Robert Kalla,33,Tier-2,High (> 75k/mo),127600.0,Young Professional,True,True
+CUST0421,Wishi Radhakrishnan,25,Tier-2,Mid (25k-75k/mo),35800.0,New Parent,False,False
+CUST0422,Pushti Gade,47,Tier-1,Mid (25k-75k/mo),46200.0,Newly Married,True,True
+CUST0423,Dhruv Kannan,31,Tier-3,High (> 75k/mo),190100.0,New Parent,False,False
+CUST0424,Riya Hegde,26,Tier-2,High (> 75k/mo),160100.0,Homeowner-in-progress,False,False
+CUST0425,Warda Ganesh,49,Tier-1,Low (< 25k/mo),15200.0,Homeowner-in-progress,False,True
+CUST0426,Gaurav Bedi,33,Tier-1,High (> 75k/mo),167700.0,Young Professional,False,False
+CUST0427,Mahika Kannan,44,Tier-3,Low (< 25k/mo),18500.0,New Parent,True,True
+CUST0428,Chaitaly Mishra,29,Tier-1,Mid (25k-75k/mo),61600.0,New Parent,False,True
+CUST0429,Mitesh Subramaniam,26,Tier-2,Low (< 25k/mo),15400.0,Homeowner-in-progress,False,True
+CUST0430,Kiaan Hegde,32,Tier-2,High (> 75k/mo),95900.0,Young Professional,False,False
+CUST0431,Vidhi Deshpande,54,Tier-1,Low (< 25k/mo),15000.0,Young Professional,False,True
+CUST0432,Shivani Seth,46,Tier-1,Low (< 25k/mo),18100.0,Newly Married,False,False
+CUST0433,Neha Mammen,48,Tier-1,High (> 75k/mo),175400.0,New Parent,True,False
+CUST0434,Anay Sur,26,Tier-3,Mid (25k-75k/mo),38600.0,New Parent,True,False
+CUST0435,Chaaya Thaman,55,Tier-1,Low (< 25k/mo),14300.0,Homeowner-in-progress,True,False
+CUST0436,Aachal Murty,41,Tier-2,Mid (25k-75k/mo),63700.0,Young Professional,False,True
+CUST0437,Tamanna Venkatesh,41,Tier-3,Low (< 25k/mo),15800.0,Newly Married,False,False
+CUST0438,Manan Lad,34,Tier-3,Mid (25k-75k/mo),74900.0,Newly Married,True,False
+CUST0439,Luke Shankar,44,Tier-3,Low (< 25k/mo),15000.0,Young Professional,False,True
+CUST0440,Damyanti Kothari,41,Tier-1,High (> 75k/mo),122000.0,Newly Married,False,True
+CUST0441,Balhaar Baria,31,Tier-3,Mid (25k-75k/mo),73100.0,New Parent,True,False
+CUST0442,Vasana Borah,45,Tier-2,High (> 75k/mo),126600.0,Young Professional,False,False
+CUST0443,Rajata Deol,26,Tier-3,High (> 75k/mo),177500.0,Young Professional,False,False
+CUST0444,Zayyan Jhaveri,42,Tier-2,Low (< 25k/mo),15800.0,New Parent,True,True
+CUST0445,Vincent Mitra,30,Tier-3,Low (< 25k/mo),24300.0,Young Professional,True,True
+CUST0446,Nandini Nadig,29,Tier-3,Mid (25k-75k/mo),40700.0,New Parent,False,True
+CUST0447,Dev Chaudhry,29,Tier-1,Mid (25k-75k/mo),48200.0,Newly Married,False,True
+CUST0448,Ekapad Dubey,24,Tier-1,High (> 75k/mo),162100.0,New Parent,True,False
+CUST0449,Lakshit Mistry,25,Tier-3,Mid (25k-75k/mo),44800.0,New Parent,True,False
+CUST0450,Liam Wason,50,Tier-3,Low (< 25k/mo),24400.0,Newly Married,True,True
+CUST0451,Devika Reddy,25,Tier-1,Low (< 25k/mo),13600.0,Newly Married,True,False
+CUST0452,Mason Chawla,27,Tier-3,High (> 75k/mo),153800.0,New Parent,False,True
+CUST0453,Daksha Ranganathan,50,Tier-1,Low (< 25k/mo),14600.0,Young Professional,False,False
+CUST0454,Udarsh Sharma,51,Tier-1,Mid (25k-75k/mo),31100.0,Newly Married,False,False
+CUST0455,Isha Krishna,23,Tier-2,High (> 75k/mo),124400.0,Homeowner-in-progress,True,True
+CUST0456,Inaya Kota,50,Tier-1,Low (< 25k/mo),15600.0,Young Professional,False,False
+CUST0457,Mason Johal,48,Tier-3,High (> 75k/mo),111900.0,Homeowner-in-progress,True,True
+CUST0458,Manbir Ramanathan,55,Tier-1,Low (< 25k/mo),17500.0,Young Professional,False,False
+CUST0459,Kashvi Kumer,53,Tier-2,Mid (25k-75k/mo),49000.0,New Parent,False,True
+CUST0460,Raghav Sampath,23,Tier-2,Mid (25k-75k/mo),54900.0,Young Professional,False,False
+CUST0461,Ubika Boase,36,Tier-1,Mid (25k-75k/mo),63300.0,Young Professional,True,True
+CUST0462,Ethan Chaudhry,25,Tier-1,High (> 75k/mo),177000.0,Homeowner-in-progress,False,False
+CUST0463,Janya Randhawa,42,Tier-3,Low (< 25k/mo),14300.0,New Parent,False,True
+CUST0464,Damini Gokhale,31,Tier-3,High (> 75k/mo),119000.0,Newly Married,False,False
+CUST0465,Manan Kala,33,Tier-2,Mid (25k-75k/mo),52100.0,Young Professional,True,True
+CUST0466,Yoshita Guha,52,Tier-1,Low (< 25k/mo),12300.0,New Parent,False,True
+CUST0467,Yashica Kala,33,Tier-2,Low (< 25k/mo),16400.0,Young Professional,True,False
+CUST0468,Krishna Keer,55,Tier-2,Low (< 25k/mo),22100.0,Young Professional,False,False
+CUST0469,Ekta Sarin,43,Tier-2,Mid (25k-75k/mo),54300.0,New Parent,True,True
+CUST0470,Barkha Setty,53,Tier-3,Mid (25k-75k/mo),64600.0,New Parent,True,False
+CUST0471,Garima Ranganathan,44,Tier-1,High (> 75k/mo),186200.0,Newly Married,False,False
+CUST0472,Girindra Raman,22,Tier-3,Mid (25k-75k/mo),31400.0,Homeowner-in-progress,False,False
+CUST0473,Jackson Bhagat,42,Tier-3,High (> 75k/mo),79000.0,Newly Married,False,True
+CUST0474,Arya Rajagopalan,26,Tier-1,Mid (25k-75k/mo),32000.0,New Parent,False,True
+CUST0475,Ishani Varma,43,Tier-2,Low (< 25k/mo),22700.0,Young Professional,True,True
+CUST0476,Turvi Mistry,28,Tier-3,Low (< 25k/mo),16600.0,Young Professional,True,False
+CUST0477,Sanya Bakshi,48,Tier-2,Mid (25k-75k/mo),73500.0,Homeowner-in-progress,False,True
+CUST0478,Darsh Nayar,36,Tier-1,Mid (25k-75k/mo),64400.0,Homeowner-in-progress,True,False
+CUST0479,Advika Devan,38,Tier-1,Mid (25k-75k/mo),26000.0,Young Professional,True,False
+CUST0480,Saksham Prabhakar,27,Tier-2,Low (< 25k/mo),21500.0,Homeowner-in-progress,False,False
+CUST0481,Devika Rastogi,49,Tier-1,High (> 75k/mo),95600.0,Young Professional,True,True
+CUST0482,Girindra Dar,38,Tier-3,Low (< 25k/mo),17300.0,New Parent,True,True
+CUST0483,Aarush Mani,53,Tier-1,Mid (25k-75k/mo),53600.0,Young Professional,False,False
+CUST0484,Nilima Madan,52,Tier-1,Mid (25k-75k/mo),66200.0,Young Professional,True,True
+CUST0485,Lopa Shah,52,Tier-1,Mid (25k-75k/mo),73900.0,New Parent,False,False
+CUST0486,Yasti Kale,46,Tier-1,High (> 75k/mo),108100.0,New Parent,False,True
+CUST0487,Darpan Ramanathan,50,Tier-2,Mid (25k-75k/mo),27200.0,New Parent,True,True
+CUST0488,Ishwar Lanka,28,Tier-1,Low (< 25k/mo),14000.0,New Parent,False,False
+CUST0489,Ranbir Bandi,25,Tier-2,High (> 75k/mo),103400.0,Homeowner-in-progress,False,False
+CUST0490,Charles Reddy,37,Tier-2,Mid (25k-75k/mo),53600.0,New Parent,True,False
+CUST0491,Krisha Gulati,55,Tier-3,High (> 75k/mo),79300.0,Newly Married,True,False
+CUST0492,Triveni Luthra,32,Tier-1,Low (< 25k/mo),24300.0,Newly Married,True,False
+CUST0493,Lohit Chaudhry,31,Tier-3,High (> 75k/mo),129400.0,New Parent,True,False
+CUST0494,Amruta Dewan,47,Tier-3,Low (< 25k/mo),13100.0,New Parent,False,False
+CUST0495,Praneel Edwin,55,Tier-2,Low (< 25k/mo),22200.0,Young Professional,False,True
+CUST0496,Darpan Krishna,28,Tier-1,High (> 75k/mo),147800.0,Young Professional,False,False
+CUST0497,Kalpit Shah,38,Tier-2,Mid (25k-75k/mo),68900.0,Homeowner-in-progress,False,False
+CUST0498,Yagnesh Ahuja,31,Tier-3,Low (< 25k/mo),15600.0,Homeowner-in-progress,True,False
+CUST0499,Sai Chanda,25,Tier-3,Mid (25k-75k/mo),59500.0,Homeowner-in-progress,False,False
