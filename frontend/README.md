@@ -1,17 +1,16 @@
-# Voyager Frontend
+# React + Vite
 
-Build this LAST, once the backend API works end-to-end.
+This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
-Recommended: `npx create-react-app .` (or Vite) inside this folder, add
-Tailwind, then build three components against your real API responses:
+Currently, two official plugins are available:
 
-1. **NextBestActionCard** — calls `GET /recommend/{customer_id}`, shows
-   the recommended product + the one-line reason string.
-2. **ChatWidget** — calls `POST /chat`, renders the guided conversation
-   turn by turn.
-3. **StressAlertBanner** — calls `GET /stress-check/{customer_id}`,
-   shows an empathetic message (not a red "blocked" warning) for
-   low/medium severity, and a clear escalation notice for high severity.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-Charts (if you add a spend-overview view): Recharts or D3, fed from
-the same feature data your backend already computes.
+## React Compiler
+
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+## Expanding the Oxlint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
